@@ -1,3 +1,4 @@
 For test git and github connection.
 add another msg.
 
+      format.html{ render :action => "edit" }
